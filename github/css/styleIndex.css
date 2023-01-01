@@ -1,0 +1,31 @@
+.myHeader {
+	margin-top: 30px;
+	text-transform: uppercase;
+}
+
+.myHeader span {
+	display: block;
+	font-size: 30px;
+}
+
+.myHeader strong {
+	font-size: 30px;
+	font-weight: 900;
+}
+.video_form {
+	margin-top: 80px;
+}
+
+.myForm {
+	border: 2px solid blue;
+	padding: 40px 30px;
+}
+
+.myForm p {
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.myForm input, .myForm button {
+	margin: 10px auto;
+}
