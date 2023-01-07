@@ -1,6 +1,38 @@
-.myNav {
-	border: 3px solid red;
+.navi a {
+	padding: 6px;
+	text-decoration: none;
 }
-.nav-item {
-	margin-left: 13%;
+
+#number {
+	position: relative;
+	text-decoration: none;
+	/*color: black;
+*/	top: -29px;
+	left: 950px;
 }
+
+.karysel {
+	width: 200px;
+}
+
+#md {
+	position: relative;
+	top: -10px;
+}
+
+#head2 {
+	text-transform: uppercase;
+}
+
+#head2 strong {
+	display: block;
+}
+
+.Product strong {
+	display: block;
+}
+
+/*.text {
+	position: relative;
+	left: 400px;
+}*/
